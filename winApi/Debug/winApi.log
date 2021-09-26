@@ -1,0 +1,212 @@
+﻿  stdafx.cpp
+c:\users\dksem\desktop\창세기전3\winapi\player.h(21): warning C4091: 'typedef ': 변수를 선언하지 않으면 'ITEM' 왼쪽은 무시됩니다.
+c:\users\dksem\desktop\창세기전3\winapi\camera.h(56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  animation.cpp
+  astar.cpp
+c:\users\dksem\desktop\창세기전3\winapi\astar.cpp(129): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\astar.cpp(321): warning C4101: 'startIndex' :참조되지 않은 지역 변수입니다.
+  AsuraPacheonmu.cpp
+c:\users\dksem\desktop\창세기전3\winapi\asurapacheonmu.cpp(84): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\asurapacheonmu.cpp(138): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\asurapacheonmu.cpp(153): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\asurapacheonmu.cpp(167): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\asurapacheonmu.cpp(300): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  battleChar.cpp
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(150): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(163): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(183): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(318): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(320): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(344): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(345): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(408): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(506): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(765): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlechar.cpp(842): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  battleCharManager.cpp
+c:\users\dksem\desktop\창세기전3\winapi\battlecharmanager.cpp(102): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlecharmanager.cpp(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlecharmanager.cpp(176): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlecharmanager.cpp(177): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  battleGreatSwordKnight.cpp
+  battleIronMask.cpp
+c:\users\dksem\desktop\창세기전3\winapi\battleironmask.cpp(23): warning C4101: 'aniArr' :참조되지 않은 지역 변수입니다.
+  battleMap.cpp
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(78): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(12): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(46): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(51): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(53): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(54): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\battlemap.cpp(230): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  battleSaladin.cpp
+  battleScene.cpp
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(231): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(363): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(387): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(506): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(531): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(650): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(784): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(803): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(821): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(826): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\battlescene.cpp(1049): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  battleSkill.cpp
+  camera.cpp
+c:\users\dksem\desktop\창세기전3\winapi\camera.cpp(35): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\camera.cpp(36): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\camera.cpp(129): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\camera.cpp(172): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  effect.cpp
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(101): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(119): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(129): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(133): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(142): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(146): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(153): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(175): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(185): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(186): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(204): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(205): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(226): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(227): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(236): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(237): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(241): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(242): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(260): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(261): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(268): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(301): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\effect.cpp(302): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effectManager.cpp
+  gameNode.cpp
+  Hphelling.cpp
+c:\users\dksem\desktop\창세기전3\winapi\hphelling.cpp(84): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\hphelling.cpp(138): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\hphelling.cpp(153): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\hphelling.cpp(167): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\hphelling.cpp(300): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  image.cpp
+  imageManager.cpp
+  iniData.cpp
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(35): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(40): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(67): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(88): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(91): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+  jumpSample.cpp
+  코드를 생성하고 있습니다...
+c:\users\dksem\desktop\창세기전3\winapi\inidata.cpp(79): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  keyManager.cpp
+  loading.cpp
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(42): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(77): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(78): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(160): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(185): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(199): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(210): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\loading.cpp(210): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mainGame.cpp
+c:\users\dksem\desktop\창세기전3\winapi\maingame.cpp(228): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NumberSample.cpp
+  pixelCollision.cpp
+c:\users\dksem\desktop\창세기전3\winapi\pixelcollision.cpp(11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\pixelcollision.cpp(14): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\pixelcollision.cpp(37): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\pixelcollision.cpp(42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\pixelcollision.cpp(50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\pixelcollision.cpp(55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\pixelcollision.cpp(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+c:\users\dksem\desktop\창세기전3\winapi\player.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\player.cpp(81): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\player.cpp(122): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\player.cpp(163): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  progressBar.cpp
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(52): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(55): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(46): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(47): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\dksem\desktop\창세기전3\winapi\progressbar.cpp(77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sceneManager.cpp
+c:\users\dksem\desktop\창세기전3\winapi\scenemanager.cpp(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  secondScene.cpp
+  shopScene.cpp
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(64): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(94): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(120): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(133): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(145): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(171): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(209): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(229): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(243): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(266): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(290): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(299): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(309): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(328): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(374): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(400): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(414): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(430): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\shopscene.cpp(449): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  soundManager.cpp
+  startScene.cpp
+c:\users\dksem\desktop\창세기전3\winapi\startscene.cpp(30): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timeManager.cpp
+  timer.cpp
+  txtDataManager.cpp
+c:\users\dksem\desktop\창세기전3\winapi\txtdatamanager.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\txtdatamanager.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dksem\desktop\창세기전3\winapi\txtdatamanager.cpp(63): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  utils.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+c:\users\dksem\desktop\창세기전3\winapi\txtdatamanager.cpp(41): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  winApi.vcxproj -> C:\Users\dksem\Desktop\창세기전3\Debug\winApi.exe

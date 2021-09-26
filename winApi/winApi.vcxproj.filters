@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="매니져">
+      <UniqueIdentifier>{45fc7e26-585a-434a-843e-e459e46be338}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="메인게임">
+      <UniqueIdentifier>{e5e7106c-c557-4f2a-bf2f-362d037f9df4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API">
+      <UniqueIdentifier>{de59bd84-490f-4de3-b2d7-ca1c9eac4440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\타이머">
+      <UniqueIdentifier>{26cd077e-757e-4ad7-a19a-732334387876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\게임노드">
+      <UniqueIdentifier>{c74581e2-587b-42c6-b090-558f511f1e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\stdafx">
+      <UniqueIdentifier>{06a3d718-c25a-4a79-8877-9330efad880c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\이미지">
+      <UniqueIdentifier>{60422429-1dd3-46ec-8b7f-88632224d0eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\프로그래스 바">
+      <UniqueIdentifier>{1f3921e4-c877-4df3-bca3-3c86de7df3bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\유틸">
+      <UniqueIdentifier>{e75bf56a-db97-4fd2-8479-b6dfb045232b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\이펙트">
+      <UniqueIdentifier>{20a4ac81-1e2a-46f8-a1c6-e7dfe4dd0732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\애니메이션">
+      <UniqueIdentifier>{a7d5d296-d5d1-4535-b878-533478909d6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\INI">
+      <UniqueIdentifier>{beef2530-7bd7-4bde-be00-4d2b0b61627c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\Sample">
+      <UniqueIdentifier>{3b01e1df-d401-4408-854b-3d95405ca4d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\로딩">
+      <UniqueIdentifier>{95b0a7f0-452d-4fbb-b791-1a871bcf444c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API\픽셀 충돌">
+      <UniqueIdentifier>{bd5cef6a-77c9-4a6c-86c4-4c1d2ccef12e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3">
+      <UniqueIdentifier>{c74fc331-55b5-46f6-b643-e1b4518f0725}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투">
+      <UniqueIdentifier>{54bacf27-3e77-41cb-a948-5a594ff855da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투\맵">
+      <UniqueIdentifier>{cb03c92f-5034-4085-a947-d1546c196ba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\카메라">
+      <UniqueIdentifier>{b1de419a-6a05-4186-ae94-c96084b240fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투\케릭터">
+      <UniqueIdentifier>{f65f0258-9287-4ae3-b622-e102edb8a39f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투\케릭터\매니저">
+      <UniqueIdentifier>{ba4293f6-a275-4f4d-a143-391bbbef76ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투\케릭터\부모클래스">
+      <UniqueIdentifier>{719623ec-28b8-452c-9e77-da2f1d01d795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\Astar">
+      <UniqueIdentifier>{4b2b3f89-e897-451e-b6a4-5277125cee57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투\씬">
+      <UniqueIdentifier>{be1e5baf-eade-4920-afa2-f402cfa37d2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투\스킬">
+      <UniqueIdentifier>{1cd241e2-e0b9-47b5-a38c-2dc004cefbb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\전투\스킬\부모클래스">
+      <UniqueIdentifier>{6d592fb1-29d0-4b68-ac81-e2770790ff9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="플레이어">
+      <UniqueIdentifier>{a65971ba-51cf-4c15-b33b-eeb2bd4c9046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="창세기전3\상점">
+      <UniqueIdentifier>{d9a4f650-5169-4d60-ace4-22dd8fa4b0df}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>메인게임</Filter>
+    </ClCompile>
+    <ClCompile Include="winMain.cpp">
+      <Filter>API</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>API\이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="jumpSample.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="secondScene.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="startScene.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberSample.cpp">
+      <Filter>API\Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>API\유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>API\타이머</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>API\게임노드</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>API\stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="progressBar.cpp">
+      <Filter>API\프로그래스 바</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>API\애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="txtDataManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="iniData.cpp">
+      <Filter>API\INI</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="loading.cpp">
+      <Filter>API\로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="pixelCollision.cpp">
+      <Filter>API\픽셀 충돌</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>API\이펙트</Filter>
+    </ClCompile>
+    <ClCompile Include="effectManager.cpp">
+      <Filter>매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="battleMap.cpp">
+      <Filter>창세기전3\전투\맵</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>창세기전3\카메라</Filter>
+    </ClCompile>
+    <ClCompile Include="battleCharManager.cpp">
+      <Filter>창세기전3\전투\케릭터\매니저</Filter>
+    </ClCompile>
+    <ClCompile Include="battleSaladin.cpp">
+      <Filter>창세기전3\전투\케릭터</Filter>
+    </ClCompile>
+    <ClCompile Include="battleChar.cpp">
+      <Filter>창세기전3\전투\케릭터\부모클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="astar.cpp">
+      <Filter>창세기전3\Astar</Filter>
+    </ClCompile>
+    <ClCompile Include="battleScene.cpp">
+      <Filter>창세기전3\전투\씬</Filter>
+    </ClCompile>
+    <ClCompile Include="battleGreatSwordKnight.cpp">
+      <Filter>창세기전3\전투\케릭터</Filter>
+    </ClCompile>
+    <ClCompile Include="battleIronMask.cpp">
+      <Filter>창세기전3\전투\케릭터</Filter>
+    </ClCompile>
+    <ClCompile Include="battleSkill.cpp">
+      <Filter>창세기전3\전투\스킬\부모클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="AsuraPacheonmu.cpp">
+      <Filter>창세기전3\전투\스킬</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>플레이어</Filter>
+    </ClCompile>
+    <ClCompile Include="shopScene.cpp">
+      <Filter>창세기전3\상점</Filter>
+    </ClCompile>
+    <ClCompile Include="Hphelling.cpp">
+      <Filter>창세기전3\전투\스킬</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="commonMacroFiunction.h">
+      <Filter>API\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>API\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>메인게임</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>API\이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="jumpSample.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="secondScene.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="startScene.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberSample.h">
+      <Filter>API\Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>API\유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>API\타이머</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>API\게임노드</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>API\stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="progressBar.h">
+      <Filter>API\프로그래스 바</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>API\애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="txtDataManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="iniData.h">
+      <Filter>API\INI</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="loading.h">
+      <Filter>API\로딩</Filter>
+    </ClInclude>
+    <ClInclude Include="pixelCollision.h">
+      <Filter>API\픽셀 충돌</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>API\이펙트</Filter>
+    </ClInclude>
+    <ClInclude Include="effectManager.h">
+      <Filter>매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="battleMap.h">
+      <Filter>창세기전3\전투\맵</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>창세기전3\카메라</Filter>
+    </ClInclude>
+    <ClInclude Include="battleCharManager.h">
+      <Filter>창세기전3\전투\케릭터\매니저</Filter>
+    </ClInclude>
+    <ClInclude Include="battleSaladin.h">
+      <Filter>창세기전3\전투\케릭터</Filter>
+    </ClInclude>
+    <ClInclude Include="battleChar.h">
+      <Filter>창세기전3\전투\케릭터\부모클래스</Filter>
+    </ClInclude>
+    <ClInclude Include="astar.h">
+      <Filter>창세기전3\Astar</Filter>
+    </ClInclude>
+    <ClInclude Include="battleScene.h">
+      <Filter>창세기전3\전투\씬</Filter>
+    </ClInclude>
+    <ClInclude Include="battleGreatSwordKnight.h">
+      <Filter>창세기전3\전투\케릭터</Filter>
+    </ClInclude>
+    <ClInclude Include="battleIronMask.h">
+      <Filter>창세기전3\전투\케릭터</Filter>
+    </ClInclude>
+    <ClInclude Include="battleSkill.h">
+      <Filter>창세기전3\전투\스킬\부모클래스</Filter>
+    </ClInclude>
+    <ClInclude Include="AsuraPacheonmu.h">
+      <Filter>창세기전3\전투\스킬</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>플레이어</Filter>
+    </ClInclude>
+    <ClInclude Include="shopScene.h">
+      <Filter>창세기전3\상점</Filter>
+    </ClInclude>
+    <ClInclude Include="Hphelling.h">
+      <Filter>창세기전3\전투\스킬</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
